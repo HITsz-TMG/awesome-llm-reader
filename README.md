@@ -5,6 +5,10 @@
 
 * [2023/05] **Active Retrieval Augmented Generation.** *Zhengbao Jiang et al. arXiv.* [[paper](https://browse.arxiv.org/pdf/2305.06983.pdf)]
 
+* [2023/05] **Query Rewriting for Retrieval-Augmented Large Language Models.** *Xinbei Ma et al. EMNLP.* [[paper](https://browse.arxiv.org/pdf/2305.14283.pdf)]
+
+* [2023/05] **Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy.** *Zhihong Shao et al. EMNLP.* [[paper](https://browse.arxiv.org/pdf/2305.15294.pdf)]
+
 * [2023/09] **Benchmarking Large Language Models in Retrieval-Augmented Generation.** *Jiawei Chen et al. arXiv.* [[paper](https://browse.arxiv.org/pdf/2309.01431v1.pdf)]
 
 * [2023/09] **PDFTriage: Question Answering over Long, Structured Documents.** *Jon Saad-Falcon et al. arXiv.* [[paper](https://browse.arxiv.org/pdf/2309.08872v1.pdf)]
