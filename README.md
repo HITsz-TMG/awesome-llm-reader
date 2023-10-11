@@ -18,3 +18,5 @@
 * [2023/10] **RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation.** *Fangyuan Xu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.04408v1.pdf)]
 
 * [2023/10] **Retrieval-Generation Synergy Augmented Large Language Models.** *Zhangyin Feng et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05149v1.pdf)]
+
+* [2023/10] **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation.** *Tu Vu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.03214v1.pdf)]
