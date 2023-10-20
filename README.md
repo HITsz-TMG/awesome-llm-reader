@@ -34,6 +34,7 @@
 
 * [2023/10] **Hexa: Self-Improving for Knowledge-Grounded Dialogue System.** *Daejin Jo et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.06404v1.pdf)]
 
+[2023/10] **Understanding Retrieval Augmentation for Long-Form Question Answering.** *Hung-Ting Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.12150.pdf)]
 
 
 ## Efficiency
