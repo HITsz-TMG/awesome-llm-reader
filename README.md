@@ -36,6 +36,8 @@
 
 * [2023/10] **Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading.** *Howard Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.05029.pdf)]
 
+* [2023/10] **Retrieve Anything To Augment Large Language Models.** *Peitian Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.07554.pdf)]
+
 
 ## Efficiency
 
