@@ -54,3 +54,5 @@
 * [2023/10] **Compressing Context to Enhance Inference Efficiency of Large Language Models.** *Yucheng Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.06201v1.pdf)]
 
 * [2023/10] **CacheGen: Fast Context Loading for Language Model Applications.** *Yuhan Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.07240.pdf)]
+
+* [2023/10] **TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction.** *Junyi Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.15556v1.pdf)]
