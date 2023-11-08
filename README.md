@@ -38,6 +38,8 @@
 
 * [2023/10] **Retrieve Anything To Augment Large Language Models.** *Peitian Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.07554.pdf)]
 
+* [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection.** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.11511.pdf)]
+
 
 ## Efficiency
 
