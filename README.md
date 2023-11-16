@@ -40,6 +40,11 @@
 
 * [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection.** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.11511.pdf)]
 
+* [2023/11] **LLatrieval: LLM-Verified Retrieval for Verifiable Generation.** *Xiaonan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.07838v1.pdf)]
+
+* [2023/11] **Learning to Filter Context for Retrieval-Augmented Generation.** *Zhiruo Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08377v1.pdf)]
+
+
 
 ## Efficiency
 
