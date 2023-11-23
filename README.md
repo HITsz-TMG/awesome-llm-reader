@@ -44,6 +44,9 @@
 
 * [2023/11] **Learning to Filter Context for Retrieval-Augmented Generation.** *Zhiruo Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08377v1.pdf)]
 
+* [2023/11] **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models.** *Wenhao Yu et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.09210v1.pdf)]
+
+* [2023/11] **Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering.** *Inderjeet Nair et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.13565v1.pdf)]
 
 
 ## Efficiency
