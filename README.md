@@ -27,6 +27,7 @@
 
 * [2023/10] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection.** *Akari Asai et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.11511.pdf)]
 
+* [2024/01] **DocLLM: A layout-aware generative language model for multimodal document understanding.** *Dongsheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.00908v1.pdf)]
 
 
 ## :memo: Knowledge Preprocessing
