@@ -56,6 +56,10 @@
 
 * [2023/10] **Understanding Retrieval Augmentation for Long-Form Question Answering.** *Hung-Ting Chen et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.12150.pdf)]
 
+* [2024/01] **Corrective Retrieval Augmented Generation.** *Shi-Qi Yan et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.15884v1.pdf)]
+
+* [2024/01] **CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models.** *Yuanjie Lyu et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.17043v1.pdf)]
+
 
 
 ## :rocket: Efficiency
