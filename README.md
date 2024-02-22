@@ -81,3 +81,5 @@
 * [2023/10] **TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction.** *Junyi Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.15556v1.pdf)]
 
 * [2023/11] **Learning to Filter Context for Retrieval-Augmented Generation.** *Zhiruo Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08377v1.pdf)]
+
+* [2024/02] **Generative Representational Instruction Tuning.** *Niklas Muennighoff et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.09906.pdf)]
