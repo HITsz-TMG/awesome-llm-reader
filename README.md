@@ -29,6 +29,9 @@
 
 * [2024/01] **DocLLM: A layout-aware generative language model for multimodal document understanding.** *Dongsheng Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.00908v1.pdf)]
 
+* [2024/03] **Uni-SMART: Universal Science Multimodal Analysis and Research Transformer.** *Hengxing Cai et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.10301.pdf)]
+
+* [2024/03] **RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback.** *Yanming Liu et al. arXiv.* [[paper](https://arxiv.org/pdf/2403.06840.pdf)]
 
 ## :memo: Knowledge Preprocessing
 
