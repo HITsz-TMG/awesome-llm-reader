@@ -45,6 +45,7 @@
 
 * [2023/11] **Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering.** *Inderjeet Nair et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.13565v1.pdf)]
 
+* [2023/11] **Revolutionizing Retrieval-Augmented Generation with Enhanced PDF Structure Recognition.** *Demiao LIN arXiv.* [[paper](https://arxiv.org/pdf/2401.12599.pdf)]
 
 
 ## :chart_with_upwards_trend: Evaluation
