@@ -89,3 +89,6 @@
 * [2024/02] **Generative Representational Instruction Tuning.** *Niklas Muennighoff et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.09906.pdf)]
 
 * [2024/02] **A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts.** *Kuang-Huei Lee et al. arXiv.* [[paper](https://arxiv.org/pdf/2402.09727.pdf)]
+
+* [2024/02] **Superposition Prompting: Improving and Accelerating RetrievalAugmented Generation.** *Thomas Merth et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.06910.pdf)]
+
