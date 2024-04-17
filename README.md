@@ -64,6 +64,7 @@
 
 * [2024/01] **CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models.** *Yuanjie Lyu et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.17043v1.pdf)]
 
+* [2024/04] **How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs’ internal prior.** *Kevin Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.10198v1.pdf)]
 
 
 ## :rocket: Efficiency
