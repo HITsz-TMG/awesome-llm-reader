@@ -93,3 +93,4 @@
 
 * [2024/02] **Superposition Prompting: Improving and Accelerating RetrievalAugmented Generation.** *Thomas Merth et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.06910.pdf)]
 
+* [2024/05] **Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection.** *Yun Zhu et al. arXiv.* [[paper](https://arxiv.org/pdf/2405.16178)]
