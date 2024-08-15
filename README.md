@@ -47,6 +47,8 @@
 
 * [2023/11] **Revolutionizing Retrieval-Augmented Generation with Enhanced PDF Structure Recognition.** *Demiao LIN arXiv.* [[paper](https://arxiv.org/pdf/2401.12599.pdf)]
 
+* [2024/06] **LumberChunker: Long-Form Narrative Document Segmentation.** *André V. Duarte arXiv.* [[paper](https://arxiv.org/pdf/2406.17526v1)]
+
 
 ## :chart_with_upwards_trend: Evaluation
 
@@ -65,6 +67,8 @@
 * [2024/01] **CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models.** *Yuanjie Lyu et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.17043v1.pdf)]
 
 * [2024/04] **How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs’ internal prior.** *Kevin Wu et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.10198v1.pdf)]
+
+* [2024/07] **Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach.** *Zhuowan Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2407.16833v1)]
 
 
 ## :rocket: Efficiency
